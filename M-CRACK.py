@@ -16,16 +16,16 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from MXD import mahadi
+        from MXD import falcon**
  
-        mahadi()
+        Falcon*🐸()
  
  
  
 elif bit == "32bit":
  
-        from MXD2 import mahadi
+        from MXD2 import falcon😁😁
  
  
-        mahadi()
+        Falcons ()
  
